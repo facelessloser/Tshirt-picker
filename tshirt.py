@@ -16,6 +16,7 @@ oooooooooo  o88             oooo
  888oooo88   888 888     888 888o888   888oooooo8   888    888  
  888         888 888         8888 88o  888          888         
 o888o       o888o  88ooo888 o888o o888o  88oooo888 o888o
+
 ver 0.1 aplha       
  '''
         # This looks to see if there is anything in the tshirt.txt file by reading the bytes
